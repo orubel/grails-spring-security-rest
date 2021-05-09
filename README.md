@@ -23,10 +23,7 @@ _Are you using this plugin and want to be listed here? [Include your company you
 
 Support
 -------
-
-* General questions should go to the [`#security` channel in Slack](https://grails.slack.com/messages/security).
 * If you've got issues, report them [here in GitHub](https://github.com/alvarosanchez/grails-spring-security-rest/issues).
-* If you need commercial support, you can ask [Salenda](http://www.salenda.es) at [desarrollo AT salenda DOT es](mailto:desarrolloATsalendaDOTes).
 
 **NOTE**: if you have questions or issues, [enable debug logging](http://alvarosanchez.github.io/grails-spring-security-rest/latest/docs/guide/debugging.html),
 and include the output in your request.
