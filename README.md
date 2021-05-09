@@ -4,7 +4,9 @@ Spring Security REST for Grails
 [![Latest version](https://api.bintray.com/packages/grails/plugins/spring-security-rest/images/download.svg) ](https://bintray.com/grails/plugins/spring-security-rest/_latestVersion)
 [![Slack Signup](http://slack-signup.grails.org/badge.svg)](http://slack-signup.grails.org)
 
-Grails plugin to implement a stateless, token-based, RESTful authentication using Spring Security.
+Grails plugin to implement a stateless, token-based, RESTful authentication using Spring Security being maintained by BeAPI for Grails 3 compatibility.
+
+
 
 Documentation: 
 * [User guide](http://alvarosanchez.github.io/grails-spring-security-rest/latest/docs/).
@@ -33,6 +35,7 @@ and include the output in your request.
 Contributors
 ------------
 
+* [Owen Rubel](https://github.com/orubel).
 * [Aaron Eischeid](https://github.com/aeischeid).
 * [A.J. Brown](https://github.com/ajbrown).
 * [Andrew Wharton](https://github.com/andrew-wharton).
