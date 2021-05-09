@@ -47,7 +47,6 @@ Contributors
 * [Conall Laverty](https://github.com/conalllaverty).
 * [Dhiraj Mahapatro](https://github.com/dmahapatro).
 * [Greg Pagendam-Turner](https://github.com/liftyourgame).
-* [James Kleeh](https://github.com/Schlogen).
 * [Jonas Ladenfors](https://github.com/jladenfors).
 * [Lukasz Wozniak](https://github.com/stlhrt).
 * [Marcos Carceles](https://github.com/marcos-carceles).
